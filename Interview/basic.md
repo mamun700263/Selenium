@@ -1,4 +1,9 @@
 ### **🔹 Basic Selenium Questions and Answers**  
+1. [What is Selenium, and how does it work?](#what-is-selenium-and-how-does-it-work)
+2. [What are the limitations of Selenium?](#what-are-the-limitations-of-selenium)
+3. [How do you install Selenium and set up a WebDriver for Chrome?](#how-do-you-install-selenium-and-set-up-a-webdriver-for-chrome)
+4. [How does Selenium interact with a webpage? Explain how it finds and manipulates elements.](#how-does-selenium-interact-with-a-webpage-explain-how-it-finds-and-manipulates-elements)
+5. [What are the different ways to launch a browser in Selenium?](#5-what-are-the-different-ways-to-launch-a-browser-in-selenium)
 
 #### **1. What is Selenium, and how does it work?**  
 Selenium is an open-source automation framework used for testing web applications. It allows interaction with web elements just like a human user would—clicking buttons, filling forms, and navigating pages. Selenium supports multiple programming languages (Python, Java, C#, etc.) and provides bindings for different browsers (Chrome, Firefox, Edge). It works by using WebDriver, which acts as a bridge between the browser and the automation script.  

@@ -1,10 +1,10 @@
 
-### **🔹 Basic Selenium Questions**
-1. [What is Selenium, and how does it work?](basic.md#what-is-selenium-and-how-does-it-work)
-2. [What are the limitations of Selenium?](basic.md#what-are-the-limitations-of-selenium)
-3. [How do you install Selenium and set up a WebDriver for Chrome?](basic.md#how-do-you-install-selenium-and-set-up-a-webdriver-for-chrome)
-4. [How does Selenium interact with a webpage? Explain how it finds and manipulates elements.](basic.md#how-does-selenium-interact-with-a-webpage-explain-how-it-finds-and-manipulates-elements)
-5. [What are the different ways to launch a browser in Selenium?](basic.md#what-are-the-different-ways-to-launch-a-browser-in-selenium)
+### **🔹 [Basic Selenium Questions](basic.md)**
+1. [What is Selenium, and how does it work?](basic.md#1-what-is-selenium-and-how-does-it-work)
+2. [What are the limitations of Selenium?](basic.md#2-what-are-the-limitations-of-selenium)
+3. [How do you install Selenium and set up a WebDriver for Chrome?](basic.md#3-how-do-you-install-selenium-and-set-up-a-webdriver-for-chrome)
+4. [How does Selenium interact with a webpage? Explain how it finds and manipulates elements.](basic.md#4-how-does-selenium-interact-with-a-webpage-explain-how-it-finds-and-manipulates-elements)
+5. [What are the different ways to launch a browser in Selenium?](basic.md#5-what-are-the-different-ways-to-launch-a-browser-in-selenium)
 
 
 ---
